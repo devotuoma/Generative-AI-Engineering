@@ -42,7 +42,7 @@ Building AI agents and applications with RAG and LangChain in a significant guid
 
 
 
-# Introduction to Artificial Intelligence (AI)
+# Module 1  Introduction to Artificial Intelligence (AI)
 ##  What you'll learn
 
 -  Explain the fundamental concepts and applications of AI in various domains.
