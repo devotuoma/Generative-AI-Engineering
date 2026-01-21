@@ -43,16 +43,16 @@ Building AI agents and applications with RAG and LangChain in a significant guid
 
 
 # Introduction to Artificial Intelligence (AI)
-## 📘 What you'll learn
+##  What you'll learn
 
-- ✅ Explain the fundamental concepts and applications of AI in various domains.
-- ✅ Describe the core principles of machine learning, deep learning, and neural networks, and apply them to real-world scenarios.
-- ✅ Analyze the role of generative AI in transforming business operations, identifying opportunities for innovation and process improvement.
-- ✅ Design a generative AI solution for an organizational challenge, integrating ethical considerations.
+-  Explain the fundamental concepts and applications of AI in various domains.
+-  Describe the core principles of machine learning, deep learning, and neural networks, and apply them to real-world scenarios.
+-  Analyze the role of generative AI in transforming business operations, identifying opportunities for innovation and process improvement.
+-  Design a generative AI solution for an organizational challenge, integrating ethical considerations.
 
 ---
 
-## 🧠 Skills you'll gain
+## Skills you'll gain
 
 `Generative AI` `Natural Language Processing` `Robotics` `Risk Mitigation` `Responsible AI` `Business Logic`
 
