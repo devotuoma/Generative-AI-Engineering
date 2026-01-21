@@ -55,3 +55,223 @@ Building AI agents and applications with RAG and LangChain in a significant guid
 
 `Generative AI` `Natural Language Processing` `Robotics` `Risk Mitigation` `Responsible AI` `Business Logic`
 
+
+
+### Module 2: Generative AI – Introduction and Applications
+**What I Learned**
+- Differentiated generative AI from discriminative AI  
+- Explored real-world generative AI use cases across industries  
+- Identified generative AI models for text, code, image, audio, and video  
+
+**Skills Gained**
+- Generative AI  
+- ChatGPT  
+- Artificial Intelligence & Machine Learning (AI/ML)  
+- Deep Learning  
+- Machine Learning  
+
+
+
+### Module 3: Generative AI – Prompt Engineering Basics
+**What I Learned**
+- Fundamentals and importance of prompt engineering  
+- Best practices for writing effective prompts  
+- Common prompt patterns and techniques  
+
+**Skills Gained**
+- Prompt Engineering  
+- Prompt Patterns  
+- Context Management  
+- AI Workflows  
+- Decision Making  
+
+
+
+### Module 4: Python for Data Science, AI & Development
+**What I Learned**
+- Python fundamentals and programming logic  
+- Data analysis using Pandas and NumPy  
+- Web data extraction using APIs and web scraping  
+
+**Skills Gained**
+- Python Programming  
+- Pandas & NumPy  
+- Data Analysis & Manipulation  
+- RESTful APIs  
+- Web Scraping  
+- Object-Oriented Programming (OOP)  
+
+
+
+### Module 5: Developing AI Applications with Python and Flask
+**What I Learned**
+- Python application development lifecycle  
+- Building REST APIs and web apps using Flask  
+- Deploying AI-powered applications  
+
+**Skills Gained**
+- Flask  
+- RESTful APIs  
+- Application Deployment  
+- Unit Testing  
+- Server-Side Development  
+
+
+
+### Module 6: Building Generative AI-Powered Applications with Python
+**What I Learned**
+- Built chatbots using LLMs and RAG  
+- Integrated speech-to-text and text-to-speech  
+- Developed AI web applications using Flask and Gradio  
+
+**Skills Gained**
+- Generative AI  
+- Retrieval-Augmented Generation (RAG)  
+- LangChain  
+- Hugging Face  
+- OpenAI APIs  
+
+
+
+### Module 7: Data Analysis with Python
+**What I Learned**
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Regression modeling and prediction  
+
+**Skills Gained**
+- Exploratory Data Analysis  
+- Regression Analysis  
+- Scikit-learn  
+- Data Visualization  
+- Statistical Analysis  
+
+
+
+### Module 8: Machine Learning with Python
+**What I Learned**
+- Supervised and unsupervised learning techniques  
+- Model evaluation and optimization  
+- End-to-end machine learning workflows  
+
+**Skills Gained**
+- Machine Learning  
+- Classification & Regression  
+- Clustering  
+- Feature Engineering  
+- Model Evaluation  
+
+
+
+### Module 9: Introduction to Deep Learning & Neural Networks
+**What I Learned**
+- Fundamentals of neural networks  
+- Built CNNs, RNNs, and transformers  
+- Evaluated deep learning models  
+
+**Skills Gained**
+- Deep Learning  
+- Keras  
+- Neural Networks  
+- Transfer Learning  
+
+
+
+### Module 10: Generative AI & LLM Architecture and Data Preparation
+**What I Learned**
+- Generative AI architectures (Transformers, GANs, VAEs)  
+- Tokenization and NLP preprocessing  
+- Building NLP data pipelines with PyTorch  
+
+**Skills Gained**
+- PyTorch  
+- Large Language Models (LLMs)  
+- Tokenization  
+- NLP Data Pipelines  
+
+
+
+### Module 11: Foundational Models for NLP & Language Understanding
+**What I Learned**
+- Text representation techniques and embeddings  
+- Word2Vec and sequence models  
+- Ethical considerations in NLP  
+
+**Skills Gained**
+- Natural Language Processing (NLP)  
+- Embeddings  
+- Feature Engineering  
+- Model Evaluation  
+
+
+
+### Module 12: Generative AI Language Modeling with Transformers
+**What I Learned**
+- Attention mechanisms and transformer architecture  
+- GPT vs BERT modeling approaches  
+- Transformer-based NLP applications  
+
+**Skills Gained**
+- Transformers  
+- Hugging Face  
+- Transfer Learning  
+- Text Mining  
+
+
+
+### Module 13: Generative AI Engineering & Fine-Tuning Transformers
+**What I Learned**
+- Fine-tuned LLMs using LoRA and QLoRA  
+- Ran inference and training using Hugging Face  
+- Optimized model performance  
+
+**Skills Gained**
+- LLM Fine-Tuning  
+- Parameter-Efficient Fine-Tuning (PEFT)  
+- Performance Optimization  
+
+
+
+### Module 14: Advanced Fine-Tuning for LLMs
+**What I Learned**
+- Instruction tuning and reward modeling  
+- Applied RLHF, PPO, and DPO techniques  
+- Evaluated fine-tuned LLMs  
+
+**Skills Gained**
+- Reinforcement Learning  
+- RLHF  
+- PPO & DPO  
+- Model Evaluation  
+
+
+
+### Module 15: Fundamentals of AI Agents Using RAG and LangChain
+**What I Learned**
+- Built AI agents using LangChain  
+- Applied advanced prompt engineering  
+- Integrated RAG into LLM workflows  
+
+**Skills Gained**
+- AI Agents  
+- LangChain  
+- Retrieval-Augmented Generation (RAG)  
+
+
+
+### Module 16: Project – Generative AI Applications with RAG and LangChain
+**What I Learned**
+- Built an end-to-end generative AI application  
+- Implemented vector databases for document retrieval  
+- Developed a QA chatbot using Gradio and LangChain  
+
+**Skills Gained**
+- Vector Databases  
+- Embeddings  
+- LLM Applications  
+- Gradio  
+- End-to-End RAG Systems  
+
+
+
+
