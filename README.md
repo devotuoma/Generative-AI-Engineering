@@ -1,58 +1,5 @@
 # Generative-AI-Engineering
 IBM Generative AI Engineering Professional Certificate
-What you'll learn
-Job-ready skills employers are crying out for in gen AI, machine learning, deep learning, NLP apps, and large language models in just 6 months.
-
-Build and deploy generative AI applications, agents and chatbots using Python libraries like Flask, SciPy and ScikitLearn, Keras, and PyTorch.
-
- Key gen AI architectures and NLP models, and how to apply techniques like prompt engineering, model training, and fine-tuning. 
-
-Apply transformers like BERT and LLMs like GPT for NLP tasks, with frameworks like RAG and LangChain.
-
-Skills you'll gain
-Category: Prompt Patterns
-Prompt Patterns
-Category: Data Transformation
-Data Transformation
-Category: LLM Application
-LLM Application
-Category: Exploratory Data Analysis
-Exploratory Data Analysis
-Category: LangChain
-LangChain
-Category: PyTorch (Machine Learning Library)
-PyTorch (Machine Learning Library)
-Category: Prompt Engineering
-Prompt Engineering
-Category: Restful API
-Restful API
-Category: ChatGPT
-ChatGPT
-Category: Data Import/Export
-Data Import/Export
-Category: Large Language Modeling
-Large Language Modeling
-Category: Keras (Neural Network Library)
-Keras (Neural Network Library)
-Category: Model Evaluation
-Model Evaluation
-Category: Generative Model Architectures
-Generative Model Architectures
-Category: Retrieval-Augmented Generation
-Retrieval-Augmented Generation
-Category: Generative AI
-Generative AI
-Category: Responsible AI
-Responsible AI
-Category: Supervised Learning
-Supervised Learning
-Category: Unsupervised Learning
-Unsupervised Learning
-Category: Vector Databases
-Vector Databases
-
-
-
 
 Professional Certificate - 16 course series
 The generative AI market is expected to grow over 46% CAGR to 2030 (Statista). The demand for tech professionals with gen AI engineering skills is exploding!
