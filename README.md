@@ -50,7 +50,6 @@ Building AI agents and applications with RAG and LangChain in a significant guid
 -  Analyze the role of generative AI in transforming business operations, identifying opportunities for innovation and process improvement.
 -  Design a generative AI solution for an organizational challenge, integrating ethical considerations.
 
----
 
 ## Skills you'll gain
 
