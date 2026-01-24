@@ -1,4 +1,4 @@
-# Generative-AI-Enginee
+# Generative-AI-Engin
 IBM Generative AI Engineering Professional Certificate
 
 Professional Certificate - 16 course series
